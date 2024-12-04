@@ -1692,9 +1692,7 @@ select::-ms-expand {
 .hidden-now {
   opacity: 0;
 }
-.order__form {
-  display: none;
-}
+
 
 
 .super-rotation {
